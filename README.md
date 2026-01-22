@@ -31,14 +31,16 @@ const fab = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fonzarely&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonzarely&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fonzarely&theme=tokyonight)](https://github.com/fonzarely)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fonzarely&theme=tokyonight)](https://github.com/fonzarely)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fonzarely&theme=tokyonight)](https://github.com/fonzarely)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fonzarely&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fonzarely&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/fonzarely)
 
 </div>
 
